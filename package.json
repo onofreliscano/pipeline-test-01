@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^3.3.1",
+    "simple-npm-package": "^3.0.8"
+  }
 }
